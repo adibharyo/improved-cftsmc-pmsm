@@ -25,6 +25,9 @@ Load Torque: 5 Nm at t = 5 Reference Speed: 0 to 20 rpm on t = 1 second and 20 t
 ### Equation
 ![image](https://github.com/adibharyo/improved-cftsmc-pmsm/assets/70692957/45e53197-3b54-459c-8f3e-7aea9bd84b68)
 
+![image](https://github.com/adibharyo/improved-cftsmc-pmsm/assets/70692957/4c705cdc-0a19-4bb2-aa93-250e81c06604)
+
+
 ### Simulink Block
 ![image](https://github.com/adibharyo/improved-cftsmc-pmsm/assets/70692957/95b83c40-954d-45e4-b7c2-a7aaf6c51d06)
 ### Parameter 
